@@ -1,0 +1,10 @@
+---
+
+# play book to deploy jboss server
+
+
+- hosts: all
+
+
+  roles:
+  - jboss-standalone
